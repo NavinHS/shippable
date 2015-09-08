@@ -16,4 +16,8 @@ All reponses are parsed and issues are saved by checking their created_at timest
 2)Run the index.html file.
 3)Try any github repository link to view the open issues.
 
+##Future Enhancements
+
+Given more time , we will add some methods for login so that the github api responds with 100 issues per request.Without authentication it provides only 30 issues per request. Result can be optimized more further.
+
 
